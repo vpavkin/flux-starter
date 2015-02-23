@@ -7,6 +7,6 @@ class AppDispatcher extends Dispatcher {
 }
 
 /**
- * Dispatcher instance for BLDR app
+ * Dispatcher instance
  */
 module.exports = AppDispatcher;

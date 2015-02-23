@@ -1,7 +1,7 @@
 {
-  "name": "sinap-bldr",
-  "version": "0.0.1",
-  "description": "Visual form builder for SINAP",
+  "name": "flux-starter",
+  "version": "1.0.0",
+  "description": "Flux App Starter project",
   "dependencies": {
     "babel-runtime": "^4.3.0",
     "immutable": "^3.6.2",
